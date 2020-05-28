@@ -10,6 +10,10 @@
 <body>
     <h1>test</h1>
     <p>test1</p>
+
+    <ul>
+        <li>ega nugraha</li>
+    </ul>
 </body>
 
 </html>
